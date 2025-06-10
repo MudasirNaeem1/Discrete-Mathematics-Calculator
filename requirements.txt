@@ -1,0 +1,24 @@
+- User Requirements
+
+1. Windows 10/11 (32-bit or 64-bit)
+
+2. MASM32 SDK (Microsoft Macro Assembler)
+
+3. 
+Visual Studio 2019/2022 with MASM support
+
+4. ml.exe (MASM assembler)
+  
+
+5. link.exe (Microsoft Linker)
+
+6. 
+SDK
+Command Prompt or PowerShell access
+
+7. Irvine32.lib (Primary requirement)
+
+8. Irvine32.inc (Header file)
+9. 
+
+kernel32.lib (Windows API)
